@@ -1,0 +1,9 @@
+# LangChain requirements
+langchain>=0.1
+langchain_openai
+langchainhub
+tavily-python
+faiss-cpu
+
+# Dev requirements
+jupyter
