@@ -24,7 +24,6 @@ We will also use [LangSmith](https://docs.smith.langchain.com/) for observabilit
 ```shell
 export LANGCHAIN_TRACING_V2="true"
 export LANGCHAIN_API_KEY=...
-export LANGCHAIN_ENDPOINT=https://api.langchain.plus
 ```
 
 After that, we can start the Jupyter notebook server and follow along from there:
